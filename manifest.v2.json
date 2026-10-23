@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "id": "muyouming-papergames",
+  "name": "PaperGames KPM Repo",
+  "description": "KPM repository for PaperGames: 103 classic games, fully offline, on Kindle.",
+  "packages": {
+    "papergames": {
+      "name": "PaperGames",
+      "author": "muyouming",
+      "description": "103 classic board, card and puzzle games for Kindle. Fully offline: bundled local server + the stock Kindle browser. Adds a PaperGames tile to your library.",
+      "artifacts": [
+        {
+          "url": "packages/papergames/artifacts/papergames_1.0.0_kindlehf.kpkg",
+          "version": [1, 0, 0],
+          "dependencies": [],
+          "supported_platforms": ["kindlehf"]
+        }
+      ]
+    }
+  }
+}

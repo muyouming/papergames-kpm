@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "id": "papergames",
+  "name": "PaperGames",
+  "author": "muyouming",
+  "description": "103 classic board, card and puzzle games for Kindle. Fully offline: bundled local server + the stock Kindle browser. Adds a PaperGames tile to your library.",
+  "version": [
+    1,
+    0,
+    0
+  ],
+  "dependencies": [],
+  "supported_platforms": [
+    "kindlehf"
+  ]
+}
